@@ -1,0 +1,12 @@
+nginx
+
+
+website serving on diffrnt port 
+location block 
+redirection rule in location block 
+loadbalancing on three running appliction on diffrent port 
+
+
+
+
+ssl parameter
