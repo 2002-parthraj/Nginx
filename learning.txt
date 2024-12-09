@@ -1,0 +1,33 @@
+nginx-blog
+
+what is nginx
+    
+
+why we use nginx 
+
+how does nginx  working 
+
+installing nginx 
+
+
+
+
+nginx components
+        NGINX Directives
+        NGINX Variables
+        Directive and Context
+                root directive
+                Location Directive
+                try_files directive
+                The server_name directive
+                listen Directive
+        NGINX Compression and Decompression
+        
+features of  nginx 
+        load balancing 
+        NGINX Compression and Decompression
+        NGINX Dynamic Modules
+        NGINX Reverse Proxy
+        Nginx Security Controls
+        NGINX Content Caching
+        NGINX Serving Static Content
